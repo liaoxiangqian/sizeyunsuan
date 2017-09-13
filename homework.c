@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#inculde <time.h>
+#include <time.h>
 //函数原型
 int getChoice();
 void showMenu();
